@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "火を小さくするリソースパック",
+        "name": "small fire",
+        "uuid": "77c69a9b-39e3-5fe0-090c-a5dbe6f22592",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 18, 0 ]
+    },
+    "modules": [
+        {
+            "description": "火を小さくするリソースパック1",
+            "type": "resources",
+            "uuid": "cacff20d-75a8-4f26-3304-6ba30a74cfe9",
+            "version": [0, 0, 1]
+        }
+    ]
+}
